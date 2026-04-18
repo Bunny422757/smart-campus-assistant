@@ -199,23 +199,23 @@ uvicorn main:app --reload
 
 ### Syllabus
 
-- syllabus of DBMS
+- course code of DBMS
 - unit 3 of Machine Learning
 - textbooks for DBMS
-- topics in Artificial Intelligence
+- units of autometa and compiler design
 
 ### Timetable
 
 - subjects on Monday
 - faculty names
-- timetable for Thursday
-- who teaches DBMS
+- which subjects are scheduled on Thursday
+- subjects and there course codes
 
 ### Regulations
 
 - attendance rules
-- backlog policy
-- promotion criteria
+- how many rules
+- list out the rules that need to be followed by the students in the campus
 - code of conduct
 
 ---
